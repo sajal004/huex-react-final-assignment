@@ -1,0 +1,35 @@
+.header{
+    grid-area: header;
+    background-color: #F5F5F5;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0.5rem;
+    box-shadow: 0px 1px #00000029, 0 2px rgb(0 0 0 / 19%);
+  }
+  
+  .logo{
+    width: 128px;
+    height: 41px;
+    margin-left: 1rem;
+  }
+  
+  .header-contents{
+    display: flex;
+  }
+  .header-contents a{
+    color: #666565;
+    font-size: 0.7rem;
+    text-decoration: none;
+    margin-right: 2rem;
+  }
+  
+  .header-contents a:hover{
+    color: #000;
+    
+  }
+  
+  .header-icons img{
+    margin-right: 2rem;
+  }
+  

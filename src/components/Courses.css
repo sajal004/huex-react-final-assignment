@@ -1,0 +1,129 @@
+
+  .List{
+    display: flex;
+    align-items: center;
+    height: 70px;
+    margin-left: 9rem;
+    width: 50rem;
+    margin-top: 1rem;
+    border: 0.1rem solid rgba(0, 0, 0, 0.233);
+    box-shadow: 1px 1px #00000029, 0 2px rgb(0 0 0 / 19%);
+  }
+  
+  .List-header {
+    display: flex;
+    align-items: center;
+  }
+  
+  .List-star{
+    margin-left: 4rem;
+  }
+
+  .List-price{
+    font-family: Montserrat;
+    margin-left: 1rem;
+    font-weight: bold;
+  }
+
+  .List-star img{
+    height: 0.8rem;
+  }
+  .List-header h2 {
+    color: rgb(37, 36, 36)
+  }
+  
+  .List-img {
+    width: 3.5rem;
+    height: 3.5rem;
+    margin-right: 0.5rem;
+    background-color: #dbd8d8;
+    margin-left: 0.5rem;
+  }
+
+  .List-courseName{
+    width: 17rem;
+    align-self: flex-start;
+    font-family: Montserrat;
+    font-size: 17px;
+    font-weight: SemiBold;
+  }
+
+  .trackLead{
+    font-family: Montserrat;
+    font-size: 15px;
+    margin-left: 2rem;
+    font-weight: Light;
+  }
+
+  .addToCart{
+    margin-left: 1.5em;
+  }
+
+  .arrow{
+    margin-left: 1em;
+  }
+
+  .arrow img{
+    height: 0.7rem;
+  }
+
+  .addToCart button{
+    background-color: #FF6738;
+    border: none;
+    border-radius: 4px;
+    color: #FFFFFF;
+    font-family: Montserrat;
+    font-size: 14px;
+  }
+  .List-lastPrice{
+    margin-left: 2rem;
+  }
+
+  .reactButton-div{
+    display: flex;
+    margin-top: 0.4rem;
+  }
+
+  .reactButton-div img{
+      margin-right: 2rem;
+      width: 4rem;
+  }
+  
+  .List-note {
+    width: 30%;
+    text-align: left;
+  }
+  
+  .AddToList {
+    display: flex;
+    flex-direction: column;
+    width: 30rem;
+    margin: 5rem auto
+  }
+  
+  .AddToList-input {
+    padding: 0.5rem;
+    font-size: 1rem;
+    margin: 0.3rem 0rem
+  }
+  
+  .AddToList-btn {
+    padding: 0.5rem;
+    cursor: pointer;
+    background-color: #0b5468;
+    font-weight: 700;
+    color: white;
+    border: none
+  }
+
+  .course-header{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 9rem;
+    margin-top: 1rem;
+  }
+
+  .all-courses{
+    font-family: normal normal Montserrat;
+    margin-left: 1rem;
+  }

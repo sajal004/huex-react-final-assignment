@@ -1,0 +1,20 @@
+.banner{
+    background-color: #0F1317;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 70px;
+    color: #fff;
+    margin-left: 9rem;
+    margin-right: 9rem;
+    margin-top: 1rem;
+  }
+
+  .banner img{
+    height: 70px;
+  }
+
+  .banner-text{
+      width: 15rem;
+      padding-left: 1rem;
+  }

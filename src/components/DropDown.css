@@ -1,0 +1,14 @@
+.price img{
+    width: 5rem;
+    height: 1rem;
+}
+
+.options{
+    text-decoration: none;
+    color: #000;
+}
+
+.option-list{
+    border: 1px solid #AAAAAA;
+    width: 6rem;
+}

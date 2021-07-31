@@ -1,0 +1,48 @@
+.cartDetails{
+    border: 0.1rem solid rgba(0, 0, 0, 0.233);
+    margin-top: 1rem;
+    margin-left: 0.5rem;
+    width: 20rem;
+    box-shadow: 1px 1px #00000029, 0 2px rgb(0 0 0 / 19%);
+}
+
+.cart-body{
+    margin-right: 0.5rem;
+    margin-left: 0.5rem;
+    border-top: 1px solid #AAAAAA;
+    border-bottom: 1px solid #AAAAAA;
+    height: 19rem;
+}
+
+.cart-value{ 
+    margin-right: 0.5rem;
+    margin-left: 0.5rem;
+}
+
+.cart-text{
+    font-family: normal normal medium Montserrat;
+    margin: unset;
+}
+
+.cart-total{
+    font-family: normal normal bold Montserrat;
+    font-weight: bold;
+    margin-top: 1rem;
+}
+
+.cart-total img{
+    width: 70px;
+    height: 15px;
+    margin-left: 10rem;
+}
+
+p.cart-header{
+    text-align: center;
+    font-family: normal normal Montserrat;
+    color: #080808;
+}
+
+p.cart-empty{
+    font-family: italic normal medium Montserrat;
+    color: #AAAAAA;
+}
